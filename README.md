@@ -8,6 +8,8 @@ Link to Tabeau Public : https://public.tableau.com/views/company_data_1706253978
 
 2- Netflifx Dashboard :
 
+Link to the dataset on kaggle : https://www.kaggle.com/datasets/shivamb/netflix-shows
+
 Link to Tabeau Public : https://public.tableau.com/app/profile/rahaf.almuzaini/viz/Netflixdashboard_17084159481190/Netflix
 
 3- Prime Video Dashboard :
